@@ -23,6 +23,13 @@ Install dependencies
 ```
 yarn install
 ```
+
+
+```
+yarn add node-sass@4.14.1 @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome axios
+```
+
+
 ```
 choose your server in app.js (localhost or heroku)
 ```
