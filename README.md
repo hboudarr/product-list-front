@@ -23,16 +23,11 @@ Install dependencies
 ```
 yarn install
 ```
-
+```
 choose your server in app.js (localhost or heroku)
-
 ```
 Run it
 
 ```
-
 yarn start
-
-```
-
 ```
