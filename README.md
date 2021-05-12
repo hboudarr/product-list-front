@@ -4,20 +4,18 @@
 <a href="">Netlify deploy</a> - <a href="https://github.com/hboudarr/product-list-back.git">Backend repository</a> 
 </div>
 
-
 ## Dependencies
 
-- axios
-- fontawesome
-- node-sass
-
+-   axios
+-   fontawesome
+-   node-sass
 
 ## Setup instructions
 
-Clone this repository 
+Clone this repository
 
 ```
-git clone https://github.com/hboudarr/product-list-front.git 
+git clone https://github.com/hboudarr/product-list-front.git
 ```
 
 Install dependencies
@@ -26,8 +24,15 @@ Install dependencies
 yarn install
 ```
 
+choose your server in app.js (localhost or heroku)
+
+```
 Run it
 
 ```
+
 yarn start
+
+```
+
 ```

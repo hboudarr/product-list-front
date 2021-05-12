@@ -1,0 +1,23 @@
+footer {
+    font-family: "Roboto", sans-serif;
+    background-color: #fbfaf2;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 400px;
+    color: #2c2d83;
+    font-size: 12px;
+    img {
+        width: 30px;
+    }
+    div {
+        margin-left: 10px;
+    }
+    .lien:hover {
+        cursor: pointer;
+    }
+    a {
+        color: #2c2d83;
+    }
+}

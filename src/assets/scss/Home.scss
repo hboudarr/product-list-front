@@ -1,0 +1,36 @@
+.container {
+    width: 1250px;
+    margin: 0 auto;
+    height: 150px;
+    margin-top: 50px;
+    font-family: "Roboto", sans-serif;
+    color: black;
+    .section {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 20px;
+    }
+    .products {
+        display: flex;
+        justify-content: space-between;
+    }
+    .test {
+        display: flex;
+        justify-content: space-between;
+        div {
+            width: 200px;
+            height: 35px;
+            background-color: #21624b;
+            color: #fbfaf2;
+            border-radius: 5px;
+            text-align: center;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .icon:hover {
+            cursor: pointer;
+        }
+    }
+}
