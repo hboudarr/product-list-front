@@ -1,7 +1,7 @@
 # ProductList - Frontend
 
 <br/>
-<a href="">Netlify deploy</a> - <a href="https://github.com/hboudarr/product-list-back.git">Backend repository</a> 
+<a href="https://product-list-front-halim.netlify.app/">Netlify deploy</a> - <a href="https://github.com/hboudarr/product-list-back.git">Backend repository</a> 
 </div>
 
 ## Dependencies
@@ -22,11 +22,6 @@ Install dependencies
 
 ```
 yarn install
-```
-
-
-```
-yarn add node-sass@4.14.1 @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome axios
 ```
 
 
