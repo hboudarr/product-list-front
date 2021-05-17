@@ -14,7 +14,7 @@ const Home = ({ server }) => {
     const [isLoading, setIsLoading] = useState(true);
 
     // data refrech
-    useEffect(() => {
+    useEffect(({ server }) => {
         const fetchData = async () => {
             try {
                 const response = await axios.get(`${server}/product`);

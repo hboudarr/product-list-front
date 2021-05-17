@@ -12,7 +12,11 @@ const Footer = () => {
             </div>
 
             <div class="lien">
-                <a href="https://github.com/hboudarr" target="_blank">
+                <a
+                    href="https://github.com/hboudarr"
+                    target="_blank"
+                    rel="noreferrer"
+                >
                     GitHub
                 </a>
             </div>
@@ -20,6 +24,7 @@ const Footer = () => {
                 <a
                     href="https://www.linkedin.com/in/halim-boudarra-4b74a4143/"
                     target="_blank"
+                    rel="noreferrer"
                 >
                     Linkedin
                 </a>
